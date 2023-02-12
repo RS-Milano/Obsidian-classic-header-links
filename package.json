@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-classic-header-links",
+	"version": "0.1.0",
+	"description": "Plugin for Obsidian, which allows to write links to multiple words heading in the current file in classic dashes style.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
@@ -9,7 +9,7 @@
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "RS-Milano",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
