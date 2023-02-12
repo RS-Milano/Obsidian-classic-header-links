@@ -3,9 +3,9 @@
 	"name": "Classic Header Links",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Plugin for Obsidian, which allows to write links to multiple words heading in the current file in classic dashes style.",
+	"description": "Plugin for Obsidian, which allows to write links to current document headings that consist of multiple words in classic dashes style.",
 	"author": "RS-Milano",
 	"authorUrl": "https://github.com/RS-Milano",
 	"fundingUrl": "https://github.com/RS-Milano",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
